@@ -1,0 +1,6 @@
+meta_product_name: "Antoine STAUMONT"
+meta_title: "Antoine STAUMONT - Portfolio"
+meta_description: "Vous voulez en savoir plus sur moi? Visitez mon e-portfolio contenant une multitude d'infos!"
+meta_image: "http://res.cloudinary.com/dz83jh064/image/upload/v1520933613/AntoineStaumont_j4jfly.jpg"                       # should exist in `app/assets/images/`
+twitter_account: "@product_twitter_account"   # required for Twitter Cards
+facebook_account: "@product_facebook_account"
